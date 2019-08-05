@@ -5,8 +5,8 @@ mutual convertion program of tex file and word file (.docx)
 
 Editing tex source in Microsoft word
 
--Co-editing under OneDrive environment
--Cooperation with Microsoft word addons such as grammar correction (e.g. Grammarly)
+- Co-editing under OneDrive environment
+- Cooperation with Microsoft word addons such as grammar correction (e.g. Grammarly)
 
 # How to use
 
