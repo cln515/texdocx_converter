@@ -1,7 +1,7 @@
 # Texdocx converter
 mutual convertion program of tex file and word file (.docx)
 
-#Purpose
+# Purpose
 
 Editing tex source in Microsoft word
 
